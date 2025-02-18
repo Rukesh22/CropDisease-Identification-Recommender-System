@@ -22,7 +22,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import com.example.cropdisease.R
-//Hello
+
 @Composable
 fun Allplants(navController: NavController)
 {
